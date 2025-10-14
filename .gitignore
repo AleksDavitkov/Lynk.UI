@@ -1,0 +1,42 @@
+# Node dependencies
+/node_modules/
+npm-debug.log*
+yarn-error.log*
+yarn-debug.log*
+
+# Angular build outputs
+/dist/
+/out-tsc/
+/tmp/
+/coverage/
+/.angular/cache
+/.ng/
+
+# Environment files
+# src/environments/*.ts
+# /.env
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Other IDEs
+.idea/
+*.sublime-workspace
+.project
+.classpath
+.settings/
+
+# TypeScript build info
+*.tsbuildinfo
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Angular CLI and build artefacts
+/.angular-cli.json
+/.ng/
