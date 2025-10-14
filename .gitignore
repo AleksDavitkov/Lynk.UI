@@ -32,11 +32,8 @@ yarn-debug.log*
 
 # TypeScript build info
 *.tsbuildinfo
+lynk/README.md
 
 # System files
 .DS_Store
 Thumbs.db
-
-# Angular CLI and build artefacts
-/.angular-cli.json
-/.ng/
