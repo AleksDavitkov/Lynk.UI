@@ -10,6 +10,7 @@ import { Router } from '@angular/router';
   styleUrls: ['./add-category.component.scss']
 })
 export class AddCategoryComponent implements OnDestroy {
+  
   model: AddCategoryRequest;
   private addCategorySubscription?: Subscription;
 
